@@ -2,7 +2,7 @@
 
 
 Выполните и отправьте на проверку решение задачи
-**[«Прокси на NGINX»](./task1/README.md).**
+**[«Прокси на NGINX»](https://github.com/netology-code/jd-homeworks/blob/master/linux/task1/README.md).**
 
 =======
 
